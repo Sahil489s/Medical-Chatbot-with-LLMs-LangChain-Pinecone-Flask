@@ -3,7 +3,7 @@ How to run?
 STEPS:
 Clone the repository
 
-git clonehttps://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+git clone https://github.com/Sahil489s/Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask.git
 STEP 01- Create a conda environment after opening the repository
 conda create -n medibot python=3.10 -y
 conda activate medibot
